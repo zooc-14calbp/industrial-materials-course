@@ -1,0 +1,18 @@
+# Local and intermediate files
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+*.bak
+__pycache__/
+
+# Teaching and production materials
+教員用/
+制作履歴/
+制作データ/
+00_old/
+
+# Media will be distributed through download links
+*.mp4
+*.mp3
+*.wav
