@@ -22,9 +22,9 @@
 | 10 | [第10回 木材の強さ・密度・加工と接合](学生用/第10回/README.md) | スライド・配布資料・動画公開 | [動画 89:03](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson10/lesson10-video.mp4) |
 | 11 | [第11回 三材料の物性値と計算による比較](学生用/第11回/README.md) | スライド・配布資料・動画公開 | [動画 89:04](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson11/lesson11-video.mp4) |
 | 12 | [第12回 複数の観点から材料を選ぶ](学生用/第12回/README.md) | スライド・配布資料・動画公開 | [動画 89:47](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson12/lesson12-video.mp4) |
-| 13 | [第13回 比較・検査・改善を計画する](学生用/第13回/README.md) | スライド・動画公開 | [動画 90:34](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson13/lesson13-video.mp4) |
-| 14 | [第14回 技術科・他領域へつなぐ教材設計](学生用/第14回/README.md) | スライド・動画公開 | [動画 89:38](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson14/lesson14-video.mp4) |
-| 15 | [第15回 材料選択の再検討と学びの統合](学生用/第15回/README.md) | スライド・動画公開 | [動画 91:34](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson15/lesson15-video.mp4) |
+| 13 | [第13回 比較・検査・改善を計画する](学生用/第13回/README.md) | スライド・配布資料・動画公開 | [動画 90:34](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson13/lesson13-video.mp4) |
+| 14 | [第14回 技術科・他領域へつなぐ教材設計](学生用/第14回/README.md) | スライド・配布資料・動画公開 | [動画 89:38](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson14/lesson14-video.mp4) |
+| 15 | [第15回 材料選択の再検討と学びの統合](学生用/第15回/README.md) | スライド・配布資料・動画公開 | [動画 91:34](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson15/lesson15-video.mp4) |
 | 発展A | [発展A セラミックス](学生用/発展教材/A_セラミックス/README.md) | **作成中：スライド版を公開** | 作成中 |
 | 発展B | [発展B 先端素材・新素材](学生用/発展教材/B_先端素材・新素材/README.md) | **作成中：資料準備段階** | 作成中 |
 | 発展C | [発展C 工業材料の歴史](学生用/発展教材/C_工業材料の歴史/README.md) | **作成中：資料準備段階** | 作成中 |
@@ -37,7 +37,9 @@
 
 ## 教材の使い方
 
-各回の教材は、スライド（PDF・PowerPoint）と解説動画を中心に整備しています。第1～12回にはハンドアウトがあります。第13～15回はスライドの問いに沿ってノートへ記録します。各回の案内から必要な資料を開いてください。
+各回の教材は、スライド（PDF・PowerPoint）と解説動画を中心に整備しています。第1～15回にハンドアウトがあります。スライドの問いに沿って、ハンドアウトまたはノートへ記録してください。各回の案内から必要な資料を開いてください。
+
+[全15回のハンドアウト一括版（PDF・127頁）](学生用/工業材料概論_全15回ハンドアウト.pdf)
 
 動画の再生時間には、考える時間や休憩を含む場合があります。必要に応じて一時停止し、図、途中式、比較条件、判断の理由を記録してください。
 
