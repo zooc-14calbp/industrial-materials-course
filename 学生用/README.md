@@ -1,6 +1,6 @@
 # 工業材料概論　教材一覧
 
-2026年10月29日公開。第1～8回と第10・11回はスライド・ハンドアウト・動画を公開しています。**第9回・第12～15回と発展Aは作成中です。発展B・Cは資料準備段階です。**
+2026年10月29日公開。第1～11回はスライド・ハンドアウト・動画を公開しています。**第12～15回と発展Aは作成中です。発展B・Cは資料準備段階です。**
 
 各回の案内から、PDF・PowerPoint・ハンドアウトを開いてください。動画と補助音声は、案内にあるダウンロード先から取得できます。
 
@@ -14,7 +14,7 @@
 | 6 | [第6回 金属の加工・熱処理・使用環境](第06回/README.md) | スライド・配布資料・動画公開 | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-29/lesson06-video.mp4) |
 | 7 | [第7回 高分子の構造とプラスチックの性質](第07回/README.md) | スライド・配布資料・動画公開 | [動画 89:17](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-29/lesson07-video.mp4) |
 | 8 | [第8回 プラスチックの加工・耐久性・資源循環](第08回/README.md) | スライド・配布資料・動画公開 | [動画 89:57](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-29/lesson08-video.mp4) |
-| 9 | [第9回 木材の構造・方向・水分](第09回/README.md) | **作成中：スライド版を公開** | 作成中 |
+| 9 | [第9回 木材の構造・方向・水分](第09回/README.md) | スライド・配布資料・動画公開 | [動画 89:38](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson09/lesson09-video.mp4) |
 | 10 | [第10回 木材の強さ・密度・加工と接合](第10回/README.md) | スライド・配布資料・動画公開 | [動画 89:03](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson10/lesson10-video.mp4) |
 | 11 | [第11回 三材料の物性値と計算による比較](第11回/README.md) | スライド・配布資料・動画公開 | [動画 89:04](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson11/lesson11-video.mp4) |
 | 12 | [第12回 複数の観点から材料を選ぶ](第12回/README.md) | **作成中：スライド版を公開** | 作成中 |
