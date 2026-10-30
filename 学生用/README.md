@@ -1,6 +1,6 @@
 # 工業材料概論　教材一覧
 
-2026年10月29日公開。第1～13回はスライド・ハンドアウト・動画を公開しています。**第14～15回と発展Aは作成中です。発展B・Cは資料準備段階です。**
+2026年10月29日公開。第1～14回はスライド・ハンドアウト・動画を公開しています。**第15回と発展Aは作成中です。発展B・Cは資料準備段階です。**
 
 各回の案内から、PDF・PowerPoint・ハンドアウトを開いてください。動画と補助音声は、案内にあるダウンロード先から取得できます。
 
@@ -19,7 +19,7 @@
 | 11 | [第11回 三材料の物性値と計算による比較](第11回/README.md) | スライド・配布資料・動画公開 | [動画 89:04](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson11/lesson11-video.mp4) |
 | 12 | [第12回 複数の観点から材料を選ぶ](第12回/README.md) | スライド・配布資料・動画公開 | [動画 89:47](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson12/lesson12-video.mp4) |
 | 13 | [第13回 比較・検査・改善を計画する](第13回/README.md) | スライド・動画公開 | [動画 90:34](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson13/lesson13-video.mp4) |
-| 14 | [第14回 技術科・他領域へつなぐ教材設計](第14回/README.md) | **作成中：スライド版を公開** | 作成中 |
+| 14 | [第14回 技術科・他領域へつなぐ教材設計](第14回/README.md) | スライド・動画公開 | [動画 89:38](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson14/lesson14-video.mp4) |
 | 15 | [第15回 材料選択の再検討と学びの統合](第15回/README.md) | **作成中：スライド版を公開** | 作成中 |
 | 発展A | [発展A セラミックス](発展教材/A_セラミックス/README.md) | **作成中：スライド版を公開** | 作成中 |
 | 発展B | [発展B 先端素材・新素材](発展教材/B_先端素材・新素材/README.md) | **作成中：資料準備段階** | 作成中 |
