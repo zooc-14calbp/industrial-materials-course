@@ -21,7 +21,7 @@
 | 9 | [第9回 木材の構造・方向・水分](学生用/第09回/README.md) | スライド・配布資料・動画公開 | [動画 89:38](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson09/lesson09-video.mp4) |
 | 10 | [第10回 木材の強さ・密度・加工と接合](学生用/第10回/README.md) | スライド・配布資料・動画公開 | [動画 89:03](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson10/lesson10-video.mp4) |
 | 11 | [第11回 三材料の物性値と計算による比較](学生用/第11回/README.md) | スライド・配布資料・動画公開 | [動画 89:04](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson11/lesson11-video.mp4) |
-| 12 | [第12回 複数の観点から材料を選ぶ](学生用/第12回/README.md) | **作成中：スライド版を公開** | 作成中 |
+| 12 | [第12回 複数の観点から材料を選ぶ](学生用/第12回/README.md) | スライド41枚・配布資料公開／動画作成中 | 作成中 |
 | 13 | [第13回 比較・検査・改善を計画する](学生用/第13回/README.md) | **作成中：スライド版を公開** | 作成中 |
 | 14 | [第14回 技術科・他領域へつなぐ教材設計](学生用/第14回/README.md) | **作成中：スライド版を公開** | 作成中 |
 | 15 | [第15回 材料選択の再検討と学びの統合](学生用/第15回/README.md) | **作成中：スライド版を公開** | 作成中 |
