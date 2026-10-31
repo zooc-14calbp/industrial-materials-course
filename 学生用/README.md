@@ -13,7 +13,7 @@
 | 3 | [第3回 力とモーメントのつり合い](第03回/README.md) | スライド・配布資料・動画公開 | [動画 97:44](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson03-listening/lesson03-video.mp4) |
 | 4 | [第4回 断面の形と応力・たわみ](第04回/README.md) | スライド・配布資料・動画公開 | [動画 89:07](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson04-listening/lesson04-video.mp4) |
 | 5 | [第5回 金属の構造と性質](第05回/README.md) | スライド・配布資料・動画公開 | [動画 82:18](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson05-listening/lesson05-video.mp4) |
-| 6 | [第6回 金属の加工・熱処理・使用環境](第06回/README.md) | スライド・配布資料・動画公開 | [動画 90:04](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson06-video.mp4) |
+| 6 | [第6回 金属の加工・熱処理・使用環境](第06回/README.md) | スライド・配布資料・動画公開 | [動画 90:59](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson06-listening/lesson06-video.mp4) |
 | 7 | [第7回 高分子の構造とプラスチックの性質](第07回/README.md) | スライド・配布資料・動画公開 | [動画 90:00](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson07-video.mp4) |
 | 8 | [第8回 プラスチックの加工・耐久性・資源循環](第08回/README.md) | スライド・配布資料・動画公開 | [動画 89:57](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson08-video.mp4) |
 | 9 | [第9回 木材の構造・方向・水分](第09回/README.md) | スライド・配布資料・動画公開 | [動画 89:38](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson09-video.mp4) |
@@ -51,3 +51,5 @@ GitHubでは、動画・補助音声のファイル本体はダウンロード�
 第4回は聞き取り改善版（89:07）に更新しました。[第4回の案内](第04回/README.md)で、平行軸・荷重制限・残差の図と、対応する記録欄を確認できます。
 
 第5回は聞き取り改善版（82:18）に更新しました。[第5回の案内](第05回/README.md)で、密度・軸方向剛性・母材別AI評価の図と、対応する記録欄を確認できます。
+
+第6回は聞き取り改善版（90:59）に更新しました。[第6回の案内](第06回/README.md)で、熱処理・切断面の図と、対応する記録欄を確認できます。
