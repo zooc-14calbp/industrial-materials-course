@@ -2,7 +2,7 @@
 
 普段の学習では、一つ上のスライド・ハンドアウト・動画を使ってください。
 
-- [補助音声](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson09/lesson09-audio.mp3)
+- [補助音声](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson09-audio.mp3)
 - [字幕（SRT）](音声・字幕/09_授業動画_字幕.srt)
 - [字幕（VTT）](音声・字幕/09_授業動画_字幕.vtt)
 - [動画の目次](動画の目次.md)

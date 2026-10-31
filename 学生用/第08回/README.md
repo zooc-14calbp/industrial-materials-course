@@ -1,6 +1,6 @@
 # 第8回　プラスチックの加工・耐久性・資源循環
 
-[授業動画（01:29:57）](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-29/lesson08-video.mp4)
+[授業動画（89:57）](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson08-video.mp4)
 
 [授業スライド・PDF（43枚）](08_授業スライド.pdf) ／ [PowerPoint](08_授業スライド.pptx)
 
@@ -14,4 +14,11 @@
 
 合成音声と日本語字幕を使用。字幕は再生ソフトの字幕設定で表示します。更新：2026年10月29日。
 
-補助音声のみで復習する場合は、[解説音声（MP3）](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-29/lesson08-audio.mp3)を利用できます。図を指す説明ではスライドも一緒に開いてください。
+補助音声のみで復習する場合は、[解説音声（MP3）](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson08-audio.mp3)を利用できます。図を指す説明ではスライドも一緒に開いてください。
+
+
+2026年10月31日推敲：記号の名称と読み上げ説明を補足し、対応する動画・字幕・目次を更新しました。
+
+[記号の名称と読み方](../共通補助資料/記号の名称と読み方.pdf) ／ [レポート課題とルーブリック](../評価課題/README.md)
+
+[ハンドアウト](08_ハンドアウト.pdf)は補足を含め全9頁です。末尾に共通の記号一覧を収録しています。

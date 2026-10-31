@@ -5,7 +5,7 @@
 - [授業スライド（PDF）](11_授業スライド.pdf)
 - [授業スライド（PowerPoint）](11_授業スライド.pptx)
 - [ハンドアウト（10頁）](11_ハンドアウト.pdf)
-- [授業動画（89分4秒）](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson11/lesson11-video.mp4)
+- [授業動画（89分4秒）](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson11-video.mp4)
 - [動画の目次](補助資料/動画の目次.md)
 - [補助音声・外部字幕](補助資料/README.md)
 
@@ -27,3 +27,10 @@
 ハンドアウト9頁は式の導出、10頁は振り返りです。自己確認問題は正式な提出課題とは別です。正式な設問・締切・配点は授業の指示に従ってください。
 
 [教材一覧へ](../README.md)
+
+
+2026年10月31日推敲：記号の名称と読み上げ説明を補足し、対応する動画・字幕・目次を更新しました。
+
+[記号の名称と読み方](../共通補助資料/記号の名称と読み方.pdf) ／ [レポート課題とルーブリック](../評価課題/README.md)
+
+[ハンドアウト](11_ハンドアウト.pdf)は補足を含め全11頁です。末尾に共通の記号一覧を収録しています。
