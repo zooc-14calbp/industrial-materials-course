@@ -10,7 +10,7 @@
 |---|---|---|---|
 | 1 | [第1回 材料を選ぶための見方](第01回/README.md) | スライド・配布資料・動画公開 | [動画 93:24](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson01-listening/lesson01-video.mp4) |
 | 2 | [第2回 単位・力・応力・ひずみ](第02回/README.md) | スライド・配布資料・動画公開 | [動画 94:47](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson02-listening/lesson02-video.mp4) |
-| 3 | [第3回 力とモーメントのつり合い](第03回/README.md) | スライド・配布資料・動画公開 | [動画 88:40](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson03-video.mp4) |
+| 3 | [第3回 力とモーメントのつり合い](第03回/README.md) | スライド・配布資料・動画公開 | [動画 97:44](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson03-listening/lesson03-video.mp4) |
 | 4 | [第4回 断面の形と応力・たわみ](第04回/README.md) | スライド・配布資料・動画公開 | [動画 93:14](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson04-video.mp4) |
 | 5 | [第5回 金属の構造と性質](第05回/README.md) | スライド・配布資料・動画公開 | [動画 92:16](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson05-video.mp4) |
 | 6 | [第6回 金属の加工・熱処理・使用環境](第06回/README.md) | スライド・配布資料・動画公開 | [動画 90:04](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson06-video.mp4) |
@@ -45,3 +45,5 @@ GitHubでは、動画・補助音声のファイル本体はダウンロード�
 第1回は聞き取り改善版（93:24）に更新しました。[第1回の案内](第01回/README.md)で、追加記録欄と評価基準の使い方を確認できます。
 
 第2回は聞き取り改善版（94:47）に更新しました。[第2回の案内](第02回/README.md)で、Eとkの比較図と、本編演習に対応した記録欄を確認できます。
+
+第3回は聞き取り改善版（97:44）に更新しました。[第3回の案内](第03回/README.md)で、切断面・内力の図と、本編演習に対応した記録欄を確認できます。
