@@ -10,7 +10,7 @@
 
 | 回 | 内容・教材 | 状況 | 動画 |
 |---|---|---|---|
-| 1 | [第1回 材料を選ぶための見方](学生用/第01回/README.md) | スライド・配布資料・動画公開 | [動画 89:13](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson01-video.mp4) |
+| 1 | [第1回 材料を選ぶための見方](学生用/第01回/README.md) | スライド・配布資料・動画公開 | [動画 93:24](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson01-listening/lesson01-video.mp4) |
 | 2 | [第2回 単位・力・応力・ひずみ](学生用/第02回/README.md) | スライド・配布資料・動画公開 | [動画 91:08](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson02-video.mp4) |
 | 3 | [第3回 力とモーメントのつり合い](学生用/第03回/README.md) | スライド・配布資料・動画公開 | [動画 88:40](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson03-video.mp4) |
 | 4 | [第4回 断面の形と応力・たわみ](学生用/第04回/README.md) | スライド・配布資料・動画公開 | [動画 93:14](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson04-video.mp4) |
@@ -56,3 +56,5 @@
 
 2026年10月31日推敲版：主スライド・PDF・音声・字幕・目次を同期しました。
 [レポート課題と評価ルーブリック](学生用/評価課題/README.md) ／ [記号の名称と読み方](学生用/共通補助資料/記号の名称と読み方.pdf)
+
+第1回は聞き取り改善版（93:24）に更新しました。[第1回の案内](学生用/第01回/README.md)で、追加記録欄と評価基準の使い方を確認できます。
