@@ -1,0 +1,18 @@
+[1] 産総研：セルロースナノファイバー
+https://unit.aist.go.jp/chugoku/ncs/explanation/
+[2] 産総研：CNF複合材料の微細構造と物性
+https://unit.aist.go.jp/ischem/ischem-clm/technology_development.html
+[3] NIST：積層造形材の疲労と破壊
+https://www.nist.gov/programs-projects/additive-manufacturing-fatigue-and-fracture
+[4] ORNL：積層造形した複合材料の異方性
+https://impact.ornl.gov/en/publications/mechanical-anisotropy-in-polymer-composites-produced-by-material-/
+[5] 米国エネルギー省：風車材料のリサイクル
+https://www.energy.gov/cmei/systems/wind-turbine-recycling
+[6] NIST：材料データと機械学習
+https://www.nist.gov/itl/ai/materials-genome
+[7] NIST：予測の不確かさ
+https://www.nist.gov/programs-projects/aiml-data-extraction-and-uncertainty-predictions
+[8] NIST：予測モデルの一般化の検討
+https://www.nist.gov/publications/critical-examination-robustness-and-generalizability-machine-learning-prediction
+[9] NEDO：CNF複合材料の製造プロセス
+https://www.nedo.go.jp/content/100964387.pdf
