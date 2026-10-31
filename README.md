@@ -2,7 +2,7 @@
 
 木材・金属・プラスチックを中心に、材料の構造と性質、力と変形、加工と接合、使用環境を学び、条件と根拠を添えて材料を選ぶための講義教材です。
 
-**第1～15回の教材・動画を公開しています。発展教材は作成中です。**
+**第1～15回の教材・動画を公開しています。発展Aを公開し、発展B・Cを作成中です。**
 
 [教材一覧を開く](学生用/README.md)
 
@@ -25,11 +25,11 @@
 | 13 | [第13回 比較・検査・改善を計画する](学生用/第13回/README.md) | スライド・配布資料・動画公開 | [動画 90:34](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson13/lesson13-video.mp4) |
 | 14 | [第14回 技術科・他領域へつなぐ教材設計](学生用/第14回/README.md) | スライド・配布資料・動画公開 | [動画 89:38](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson14/lesson14-video.mp4) |
 | 15 | [第15回 材料選択の再検討と学びの統合](学生用/第15回/README.md) | スライド・配布資料・動画公開 | [動画 91:34](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-30-lesson15/lesson15-video.mp4) |
-| 発展A | [発展A セラミックス](学生用/発展教材/A_セラミックス/README.md) | **作成中：スライド版を公開** | 作成中 |
+| 発展A | [発展A セラミックス](学生用/発展教材/A_セラミックス/README.md) | スライド・ハンドアウト・動画公開 | [動画 75:31](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-extension-A/extensionA-video.mp4) |
 | 発展B | [発展B 先端素材・新素材](学生用/発展教材/B_先端素材・新素材/README.md) | **作成中：資料準備段階** | 作成中 |
 | 発展C | [発展C 工業材料の歴史](学生用/発展教材/C_工業材料の歴史/README.md) | **作成中：資料準備段階** | 作成中 |
 
-発展Aは、今後の点検・改訂により変更する資料です。発展B・Cの教材ファイルはこれから作成します。
+発展Aは公開済みです。発展B・Cの教材ファイルはこれから作成します。
 
 学校で扱う内容を支えるため、材料学の原理、計算の前提、モデルの適用範囲まで学びます。中学校技術、高等学校の工業・情報、教員採用試験の学習との関連も扱います。
 
