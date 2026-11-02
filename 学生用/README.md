@@ -1,6 +1,6 @@
 # 工業材料概論　教材一覧
 
-2026年11月2日現在。第1～15回と発展A・B・Cのスライド・ハンドアウト・動画を公開しています。**第1～15回は説明原稿・図・音声・動画の追加改訂を完了。発展A～Cは現行公開版を利用できます。追加推敲は今後進めます。**
+2026年11月2日現在。第1～15回と発展A・B・Cのスライド・ハンドアウト・動画を公開しています。**第1～15回および発展A～Cの説明・図・音声・動画を改訂しています。**
 
 各回の案内から、スライド（PDF・PowerPoint）を開いてください。第1～15回はハンドアウトも利用できます。スライドと動画を使い、問いへの回答や比較表をハンドアウトまたはノートに記録します。動画と補助音声は、案内にあるダウンロード先から取得できます。
 
@@ -23,9 +23,9 @@
 | 13 | [第13回 比較・検査・改善を計画する](第13回/README.md) | 追加改訂済み・公開 | [動画 89:54](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson13-listening/lesson13-video.mp4) |
 | 14 | [第14回 技術科・他領域へつなぐ教材設計](第14回/README.md) | 追加改訂済み・公開 | [動画 88:55](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson14-listening/lesson14-video.mp4) |
 | 15 | [第15回 材料選択の再検討と学びの統合](第15回/README.md) | 追加改訂済み・公開 | [動画 89:55](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson15-listening/lesson15-video.mp4) |
-| 発展A | [発展A セラミックス](発展教材/A_セラミックス/README.md) | スライド・ハンドアウト・動画公開 | [動画 75:54](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/extensionA-video.mp4) |
-| 発展B | [発展B 先端素材・新素材](発展教材/B_先端素材・新素材/README.md) | スライド・ハンドアウト・動画公開 | [動画 65:13](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/extensionB-video.mp4) |
-| 発展C | [発展C 工業材料の歴史](発展教材/C_工業材料の歴史/README.md) | スライド・ハンドアウト・動画公開 | [動画 79:36](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/extensionC-video.mp4) |
+| 発展A | [発展A セラミックス](発展教材/A_セラミックス/README.md) | スライド・ハンドアウト・動画公開 | [動画 75:43](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-extension-abc/extensionA-video.mp4) |
+| 発展B | [発展B 先端素材・新素材](発展教材/B_先端素材・新素材/README.md) | スライド・ハンドアウト・動画公開 | [動画 65:06](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-extension-abc/extensionB-video.mp4) |
+| 発展C | [発展C 工業材料の歴史](発展教材/C_工業材料の歴史/README.md) | スライド・ハンドアウト・動画公開 | [動画 79:38](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-extension-abc/extensionC-video.mp4) |
 
 動画の時間は実再生時間の目安で、演習・記録・休憩を含みます。必要に応じて一時停止し、自分で図・途中式・理由を記録してください。第4回の断面二次モーメントと第5回の化学の復習には、動画本編に含まれない任意参考資料があります。
 
