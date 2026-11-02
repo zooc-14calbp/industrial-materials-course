@@ -1,17 +1,17 @@
 # 工業材料概論　教材一覧
 
-2026年10月31日現在。第1～15回と発展A・B・Cのスライド・ハンドアウト・動画を公開しています。**第1～6回は説明原稿・図・音声・動画の追加改訂を完了。第7～15回と発展A～Cは現行公開版を利用できます。追加推敲は今後進めます。**
+2026年11月2日現在。第1～15回と発展A・B・Cのスライド・ハンドアウト・動画を公開しています。**第1～6回は説明原稿・図・音声・動画の追加改訂を完了。第7～15回と発展A～Cは現行公開版を利用できます。追加推敲は今後進めます。**
 
 各回の案内から、スライド（PDF・PowerPoint）を開いてください。第1～15回はハンドアウトも利用できます。スライドと動画を使い、問いへの回答や比較表をハンドアウトまたはノートに記録します。動画と補助音声は、案内にあるダウンロード先から取得できます。
 
-[全15回のハンドアウト一括版（PDF・151頁／10月31日更新）](工業材料概論_全15回ハンドアウト.pdf)
+[全15回のハンドアウト一括版（PDF・151頁／11月2日更新）](工業材料概論_全15回ハンドアウト.pdf)
 
 | 回 | 内容・教材 | 状況 | 動画 |
 |---|---|---|---|
 | 1 | [第1回 材料を選ぶための見方](第01回/README.md) | 追加改訂済み・公開 | [動画 93:24](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson01-listening/lesson01-video.mp4) |
 | 2 | [第2回 単位・力・応力・ひずみ](第02回/README.md) | 追加改訂済み・公開 | [動画 94:47](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson02-listening/lesson02-video.mp4) |
 | 3 | [第3回 力とモーメントのつり合い](第03回/README.md) | 追加改訂済み・公開 | [動画 97:44](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson03-listening/lesson03-video.mp4) |
-| 4 | [第4回 断面の形と応力・たわみ](第04回/README.md) | 追加改訂済み・公開 | [動画 89:07](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson04-listening/lesson04-video.mp4) |
+| 4 | [第4回 断面の形と応力・たわみ](第04回/README.md) | 追加改訂済み・公開 | [動画 89:40](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson04-figures/lesson04-video.mp4) |
 | 5 | [第5回 金属の構造と性質](第05回/README.md) | 追加改訂済み・公開 | [動画 82:18](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson05-listening/lesson05-video.mp4) |
 | 6 | [第6回 金属の加工・熱処理・使用環境](第06回/README.md) | 追加改訂済み・公開 | [動画 90:59](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson06-listening/lesson06-video.mp4) |
 | 7 | [第7回 高分子の構造とプラスチックの性質](第07回/README.md) | 現行版公開・追加推敲予定 | [動画 90:00](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson07-video.mp4) |
