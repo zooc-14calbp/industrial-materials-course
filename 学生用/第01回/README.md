@@ -3,10 +3,10 @@
 2026年10月31日・聞き取り改善版。説明原稿、スライド、ハンドアウト、動画と字幕を対応させています。
 
 1. [ハンドアウト](01_ハンドアウト.pdf)を用意する。全7頁。既存の記入欄4頁、追加記録欄2頁、記号一覧1頁です。
-2. [授業動画（93:24）](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson01-listening/lesson01-video.mp4)を見ながら、自分の説明を記録する。
+2. [授業動画（89:58）](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson01-video.mp4)を見ながら、自分の説明を記録する。
 3. [スライドPDF](01_授業スライド.pdf)で図・数値を確かめ、説明を見直す。[PowerPoint](01_授業スライド.pptx)にも対応原稿を入れています。
 
-動画の実再生時間は93:24です。説明音声77:01、演習・休憩16:00、画面切替を含みます。合成音声・切替字幕付き。必要に応じて一時停止してください。
+動画の実再生時間は89:58です。説明音声77:01、演習・休憩12:34と画面切替を含みます。合成音声・切替字幕付き。必要に応じて一時停止してください。
 
 - スライド13：密度の数値例。ハンドアウト5頁に計算と説明を記録する。
 - スライド32：たわみから強度を言い切れるかを点検する。ハンドアウト6頁を使う。AIの実利用は不要です。
@@ -16,6 +16,8 @@
 
 [動画の目次](補助資料/動画の目次.md) ／ [音声・字幕](補助資料/README.md) ／ [記号一覧](../共通補助資料/記号の名称と読み方.pdf)
 
-音声だけで復習するときは[解説音声](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-lesson01-listening/lesson01-audio.mp3)を使えます。図を指す箇所ではスライドも開いてください。
+音声だけで復習するときは[解説音声](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson01-audio.mp3)を使えます。図を指す箇所ではスライドも開いてください。
 
 [教材全体の入口](../README.md)
+
+2026年11月2日：演習の無音時間を調整し、動画を90分以内にしました。音声が案内する時間より画面の残り時間が短い場合は、一時停止して学習してください。
