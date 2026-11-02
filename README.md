@@ -2,7 +2,7 @@
 
 木材・金属・プラスチックを中心に、材料の構造と性質、力と変形、加工と接合、使用環境を学び、条件と根拠を添えて材料を選ぶための講義教材です。
 
-2026年11月2日現在。第1～15回と発展A・B・Cのスライド・ハンドアウト・動画を公開しています。**第1～14回は説明原稿・図・音声・動画の追加改訂を完了。第15回と発展A～Cは現行公開版を利用できます。追加推敲は今後進めます。**
+2026年11月2日現在。第1～15回と発展A・B・Cのスライド・ハンドアウト・動画を公開しています。**第1～15回は説明原稿・図・音声・動画の追加改訂を完了。発展A～Cは現行公開版を利用できます。追加推敲は今後進めます。**
 
 [教材一覧を開く](学生用/README.md)
 
@@ -24,7 +24,7 @@
 | 12 | [第12回 複数の観点から材料を選ぶ](学生用/第12回/README.md) | 追加改訂済み・公開 | [動画 89:47](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson12-listening/lesson12-video.mp4) | 2026-11-02 13:18 |
 | 13 | [第13回 比較・検査・改善を計画する](学生用/第13回/README.md) | 追加改訂済み・公開 | [動画 89:54](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson13-listening/lesson13-video.mp4) | 2026-11-02 13:28 |
 | 14 | [第14回 技術科・他領域へつなぐ教材設計](学生用/第14回/README.md) | 追加改訂済み・公開 | [動画 88:55](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson14-listening/lesson14-video.mp4) | 2026-11-02 13:29 |
-| 15 | [第15回 材料選択の再検討と学びの統合](学生用/第15回/README.md) | 現行版公開・追加推敲予定 | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson15-video.mp4) | 2026-11-02 13:18 |
+| 15 | [第15回 材料選択の再検討と学びの統合](学生用/第15回/README.md) | 追加改訂済み・公開 | [動画 89:55](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson15-listening/lesson15-video.mp4) | 2026-11-02 13:30 |
 | 発展A | [発展A セラミックス](学生用/発展教材/A_セラミックス/README.md) | スライド・ハンドアウト・動画公開 | [動画 75:54](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/extensionA-video.mp4) | 2026-11-02 13:18 |
 | 発展B | [発展B 先端素材・新素材](学生用/発展教材/B_先端素材・新素材/README.md) | スライド・ハンドアウト・動画公開 | [動画 65:13](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/extensionB-video.mp4) | 2026-10-31 10:20 |
 | 発展C | [発展C 工業材料の歴史](学生用/発展教材/C_工業材料の歴史/README.md) | スライド・ハンドアウト・動画公開 | [動画 79:36](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/extensionC-video.mp4) | 2026-10-31 10:20 |
@@ -41,7 +41,7 @@
 
 各回の教材は、スライド（PDF・PowerPoint）と解説動画を中心に整備しています。第1～15回にハンドアウトがあります。スライドの問いに沿って、ハンドアウトまたはノートへ記録してください。各回の案内から必要な資料を開いてください。
 
-[全15回のハンドアウト一括版（PDF・165頁／11月2日更新）](学生用/工業材料概論_全15回ハンドアウト.pdf)
+[全15回のハンドアウト一括版（PDF・166頁／11月2日更新）](学生用/工業材料概論_全15回ハンドアウト.pdf)
 
 動画の再生時間には、考える時間や休憩を含む場合があります。必要に応じて一時停止し、図、途中式、比較条件、判断の理由を記録してください。
 
