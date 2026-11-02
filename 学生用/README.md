@@ -1,10 +1,10 @@
 # 工業材料概論　教材一覧
 
-2026年11月2日現在。第1～15回と発展A・B・Cのスライド・ハンドアウト・動画を公開しています。**第1～6回は説明原稿・図・音声・動画の追加改訂を完了。第7～15回と発展A～Cは現行公開版を利用できます。追加推敲は今後進めます。**
+2026年11月2日現在。第1～15回と発展A・B・Cのスライド・ハンドアウト・動画を公開しています。**第1～7回は説明原稿・図・音声・動画の追加改訂を完了。第8～15回と発展A～Cは現行公開版を利用できます。追加推敲は今後進めます。**
 
 各回の案内から、スライド（PDF・PowerPoint）を開いてください。第1～15回はハンドアウトも利用できます。スライドと動画を使い、問いへの回答や比較表をハンドアウトまたはノートに記録します。動画と補助音声は、案内にあるダウンロード先から取得できます。
 
-[全15回のハンドアウト一括版（PDF・151頁／11月2日更新）](工業材料概論_全15回ハンドアウト.pdf)
+[全15回のハンドアウト一括版（PDF・153頁／11月2日更新）](工業材料概論_全15回ハンドアウト.pdf)
 
 | 回 | 内容・教材 | 状況 | 動画 |
 |---|---|---|---|
@@ -14,7 +14,7 @@
 | 4 | [第4回 断面の形と応力・たわみ](第04回/README.md) | 追加改訂済み・公開 | [動画 89:40](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson04-figures/lesson04-video.mp4) |
 | 5 | [第5回 金属の構造と性質](第05回/README.md) | 追加改訂済み・公開 | [動画 82:52](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson05-figures/lesson05-video.mp4) |
 | 6 | [第6回 金属の加工・熱処理・使用環境](第06回/README.md) | 追加改訂済み・公開 | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson06-video.mp4) |
-| 7 | [第7回 高分子の構造とプラスチックの性質](第07回/README.md) | 現行版公開・追加推敲予定 | [動画 90:00](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson07-video.mp4) |
+| 7 | [第7回 高分子の構造とプラスチックの性質](第07回/README.md) | 追加改訂済み・公開 | [動画 85:21](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson07-listening/lesson07-video.mp4) |
 | 8 | [第8回 プラスチックの加工・耐久性・資源循環](第08回/README.md) | 現行版公開・追加推敲予定 | [動画 89:57](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson08-video.mp4) |
 | 9 | [第9回 木材の構造・方向・水分](第09回/README.md) | 現行版公開・追加推敲予定 | [動画 89:38](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/lesson09-video.mp4) |
 | 10 | [第10回 木材の強さ・密度・加工と接合](第10回/README.md) | 現行版公開・追加推敲予定 | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson10-video.mp4) |
