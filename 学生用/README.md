@@ -1,10 +1,10 @@
 # 工業材料概論　教材一覧
 
-2026年11月2日現在。第1～15回と発展A・B・Cのスライド・ハンドアウト・動画を公開しています。**第1～13回は説明原稿・図・音声・動画の追加改訂を完了。第14～15回と発展A～Cは現行公開版を利用できます。追加推敲は今後進めます。**
+2026年11月2日現在。第1～15回と発展A・B・Cのスライド・ハンドアウト・動画を公開しています。**第1～14回は説明原稿・図・音声・動画の追加改訂を完了。第15回と発展A～Cは現行公開版を利用できます。追加推敲は今後進めます。**
 
 各回の案内から、スライド（PDF・PowerPoint）を開いてください。第1～15回はハンドアウトも利用できます。スライドと動画を使い、問いへの回答や比較表をハンドアウトまたはノートに記録します。動画と補助音声は、案内にあるダウンロード先から取得できます。
 
-[全15回のハンドアウト一括版（PDF・164頁／11月2日更新）](工業材料概論_全15回ハンドアウト.pdf)
+[全15回のハンドアウト一括版（PDF・165頁／11月2日更新）](工業材料概論_全15回ハンドアウト.pdf)
 
 | 回 | 内容・教材 | 状況 | 動画 |
 |---|---|---|---|
@@ -21,7 +21,7 @@
 | 11 | [第11回 三材料の物性値と計算による比較](第11回/README.md) | 追加改訂済み・公開 | [動画 89:53](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson11-listening/lesson11-video.mp4) |
 | 12 | [第12回 複数の観点から材料を選ぶ](第12回/README.md) | 追加改訂済み・公開 | [動画 89:47](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson12-listening/lesson12-video.mp4) |
 | 13 | [第13回 比較・検査・改善を計画する](第13回/README.md) | 追加改訂済み・公開 | [動画 89:54](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson13-listening/lesson13-video.mp4) |
-| 14 | [第14回 技術科・他領域へつなぐ教材設計](第14回/README.md) | 現行版公開・追加推敲予定 | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson14-video.mp4) |
+| 14 | [第14回 技術科・他領域へつなぐ教材設計](第14回/README.md) | 追加改訂済み・公開 | [動画 88:55](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson14-listening/lesson14-video.mp4) |
 | 15 | [第15回 材料選択の再検討と学びの統合](第15回/README.md) | 現行版公開・追加推敲予定 | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson15-video.mp4) |
 | 発展A | [発展A セラミックス](発展教材/A_セラミックス/README.md) | スライド・ハンドアウト・動画公開 | [動画 75:54](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/extensionA-video.mp4) |
 | 発展B | [発展B 先端素材・新素材](発展教材/B_先端素材・新素材/README.md) | スライド・ハンドアウト・動画公開 | [動画 65:13](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-10-31-polish/extensionB-video.mp4) |
