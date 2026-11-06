@@ -11,7 +11,7 @@
 | 回 | 内容・教材 | 配布資料 | 動画 | 改訂日時（日本時間） |
 | ---: | --- | --- | --- | --- |
 | 1 | [第1回 材料を選ぶための見方](学生用/第01回/README.md) | [PDF](学生用/第01回/01_授業スライド.pdf)・[PowerPoint](学生用/第01回/01_授業スライド.pptx)・[ハンドアウト](学生用/第01回/01_ハンドアウト.pdf) | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-06-chapter01/lesson01-video.mp4) | 2026-11-06 14:37 |
-| 2 | [第2回 単位・力・応力・ひずみ](学生用/第02回/README.md) | [PDF](学生用/第02回/02_授業スライド.pdf)・[PowerPoint](学生用/第02回/02_授業スライド.pptx)・[ハンドアウト](学生用/第02回/02_ハンドアウト.pdf) | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson02-video.mp4) | 2026-11-06 14:37 |
+| 2 | [第2回 単位・力・応力・ひずみ](学生用/第02回/README.md) | [PDF](学生用/第02回/02_授業スライド.pdf)・[PowerPoint](学生用/第02回/02_授業スライド.pptx)・[ハンドアウト](学生用/第02回/02_ハンドアウト.pdf) | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-06-chapter02/lesson02-video.mp4) | 2026-11-06 14:55 |
 | 3 | [第3回 力とモーメントのつり合い](学生用/第03回/README.md) | [PDF](学生用/第03回/03_授業スライド.pdf)・[PowerPoint](学生用/第03回/03_授業スライド.pptx)・[ハンドアウト](学生用/第03回/03_ハンドアウト.pdf) | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson03-video.mp4) | 2026-11-06 14:37 |
 | 4 | [第4回 断面の形と応力・たわみ](学生用/第04回/README.md) | [PDF](学生用/第04回/04_授業スライド.pdf)・[PowerPoint](学生用/第04回/04_授業スライド.pptx)・[ハンドアウト](学生用/第04回/04_ハンドアウト.pdf) | [動画 89:40](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson04-figures/lesson04-video.mp4) | 2026-11-06 14:37 |
 | 5 | [第5回 金属の構造と性質](学生用/第05回/README.md) | [PDF](学生用/第05回/05_授業スライド.pdf)・[PowerPoint](学生用/第05回/05_授業スライド.pptx)・[ハンドアウト](学生用/第05回/05_ハンドアウト.pdf) | [動画 82:52](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson05-figures/lesson05-video.mp4) | 2026-11-06 14:37 |
@@ -74,6 +74,7 @@
 
 第1～15回と発展A～Cを公開しています。各教材の改訂日時は、[各回の教材](#各回の教材)と[発展教材](#発展教材)の一覧に日本時間で表示しています。
 
+- 2026年11月6日　第2章のスライド・配布資料・字幕付き動画に節の問いと見通しを反映しました。
 - 2026年11月6日　第1～15章の案内に節の問いと見通しを掲載し、第1章のスライド・配布資料・字幕付き動画に反映しました。
 - 2026年11月6日　共通教材Aと「教員採用試験のための練習問題」を公開しました。
 - 2026年11月6日　トップページを整理し、一覧から各回の配布資料を開けるようにしました。
