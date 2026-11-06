@@ -16,7 +16,7 @@
 | 2 | [第2回 単位・力・応力・ひずみ](第02回/README.md) | 指導要領・確認クイズあり | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-06-chapter02/lesson02-video.mp4) |
 | 3 | [第3回 力とモーメントのつり合い](第03回/README.md) | 指導要領・確認クイズあり | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-06-chapter03/lesson03-video.mp4) |
 | 4 | [第4回 断面の形と応力・たわみ](第04回/README.md) | 指導要領・確認クイズあり | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-06-chapter04/lesson04-video.mp4) |
-| 5 | [第5回 金属の構造と性質](第05回/README.md) | 指導要領・確認クイズあり | [動画 82:52](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson05-figures/lesson05-video.mp4) |
+| 5 | [第5回 金属の構造と性質](第05回/README.md) | 指導要領・確認クイズあり | [動画 84:29](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-06-chapter05/lesson05-video.mp4) |
 | 6 | [第6回 金属の加工・熱処理・使用環境](第06回/README.md) | 指導要領・確認クイズあり | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson06-video.mp4) |
 | 7 | [第7回 高分子の構造とプラスチックの性質](第07回/README.md) | 指導要領・確認クイズあり | [動画 85:21](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson07-listening/lesson07-video.mp4) |
 | 8 | [第8回 プラスチックの加工・耐久性・資源循環](第08回/README.md) | 指導要領・確認クイズあり | [動画 85:55](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson08-listening/lesson08-video.mp4) |

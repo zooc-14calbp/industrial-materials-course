@@ -14,7 +14,7 @@
 | 2 | [第2回 単位・力・応力・ひずみ](学生用/第02回/README.md) | [PDF](学生用/第02回/02_授業スライド.pdf)・[PowerPoint](学生用/第02回/02_授業スライド.pptx)・[ハンドアウト](学生用/第02回/02_ハンドアウト.pdf) | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-06-chapter02/lesson02-video.mp4) | 2026-11-06 14:55 |
 | 3 | [第3回 力とモーメントのつり合い](学生用/第03回/README.md) | [PDF](学生用/第03回/03_授業スライド.pdf)・[PowerPoint](学生用/第03回/03_授業スライド.pptx)・[ハンドアウト](学生用/第03回/03_ハンドアウト.pdf) | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-06-chapter03/lesson03-video.mp4) | 2026-11-06 15:02 |
 | 4 | [第4回 断面の形と応力・たわみ](学生用/第04回/README.md) | [PDF](学生用/第04回/04_授業スライド.pdf)・[PowerPoint](学生用/第04回/04_授業スライド.pptx)・[ハンドアウト](学生用/第04回/04_ハンドアウト.pdf) | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-06-chapter04/lesson04-video.mp4) | 2026-11-06 15:09 |
-| 5 | [第5回 金属の構造と性質](学生用/第05回/README.md) | [PDF](学生用/第05回/05_授業スライド.pdf)・[PowerPoint](学生用/第05回/05_授業スライド.pptx)・[ハンドアウト](学生用/第05回/05_ハンドアウト.pdf) | [動画 82:52](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson05-figures/lesson05-video.mp4) | 2026-11-06 14:37 |
+| 5 | [第5回 金属の構造と性質](学生用/第05回/README.md) | [PDF](学生用/第05回/05_授業スライド.pdf)・[PowerPoint](学生用/第05回/05_授業スライド.pptx)・[ハンドアウト](学生用/第05回/05_ハンドアウト.pdf) | [動画 84:29](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-06-chapter05/lesson05-video.mp4) | 2026-11-06 15:17 |
 | 6 | [第6回 金属の加工・熱処理・使用環境](学生用/第06回/README.md) | [PDF](学生用/第06回/06_授業スライド.pdf)・[PowerPoint](学生用/第06回/06_授業スライド.pptx)・[ハンドアウト](学生用/第06回/06_ハンドアウト.pdf) | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson06-video.mp4) | 2026-11-06 14:37 |
 | 7 | [第7回 高分子の構造とプラスチックの性質](学生用/第07回/README.md) | [PDF](学生用/第07回/07_授業スライド.pdf)・[PowerPoint](学生用/第07回/07_授業スライド.pptx)・[ハンドアウト](学生用/第07回/07_ハンドアウト.pdf) | [動画 85:21](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson07-listening/lesson07-video.mp4) | 2026-11-06 14:37 |
 | 8 | [第8回 プラスチックの加工・耐久性・資源循環](学生用/第08回/README.md) | [PDF](学生用/第08回/08_授業スライド.pdf)・[PowerPoint](学生用/第08回/08_授業スライド.pptx)・[ハンドアウト](学生用/第08回/08_ハンドアウト.pdf) | [動画 85:55](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson08-listening/lesson08-video.mp4) | 2026-11-06 14:37 |
@@ -74,6 +74,7 @@
 
 第1～15回と発展A～Cを公開しています。各教材の改訂日時は、[各回の教材](#各回の教材)と[発展教材](#発展教材)の一覧に日本時間で表示しています。
 
+- 2026年11月6日　第5章の各節の問いと見通しをスライド・配布資料・字幕付き動画に反映し、化学結合の任意参考を案内しました。
 - 2026年11月6日　第4章のスライド・配布資料・字幕付き動画に節の問いと見通しを反映しました。
 - 2026年11月6日　第3章のスライド・配布資料・字幕付き動画に節の問いと見通しを反映しました。
 - 2026年11月6日　第2章のスライド・配布資料・字幕付き動画に節の問いと見通しを反映しました。
