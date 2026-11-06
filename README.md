@@ -1,63 +1,70 @@
 # 工業材料概論
 
-木材・金属・プラスチックを中心に、材料の構造と性質、力と変形、加工と接合、使用環境を学び、条件と根拠を添えて材料を選ぶための講義教材です。
+木材・金属・プラスチックを中心に、材料の構造と性質、力と変形、加工と接合、使用環境を学びます。材料学の原理と計算の適用範囲を確かめ、用途に合う材料を根拠とともに選びます。中学校技術、高等学校の工業・情報、教員採用試験との接点も扱います。データやAIの説明は、単位、測定条件、出典、推論の限界から吟味します。
 
-第1～15回と発展A～Cのスライド・ハンドアウト・動画を公開しています。
+[教材一覧を開く](#各回の教材) ／ [受講方法](#教材の使い方) ／ [提出課題と評価基準](#提出課題)
 
-[教材一覧を開く](学生用/README.md)
+## 各回の教材
 
-第1～15回の学修時間の目安は、動画と確認クイズを合わせて約93～100分です。一時停止やレポートに使う時間は別に見込んでください。90分を目安に学ぶ場合は、先に動画と動画内の演習に取り組み、確認クイズは授業外の復習に回せます。授業で進め方の指定がある場合は、その指示に従ってください。
+題名から各回の案内を開けます。案内には、学修時間の目安、演習と確認クイズの参照ページ、音声・字幕へのリンクがあります。
 
-[指導要領との接続と確認クイズの使い方](学生用/共通補助資料/指導要領との接続/README.md)
+| 回 | 内容・教材 | 配布資料 | 動画 | 改訂日時（日本時間） |
+| ---: | --- | --- | --- | --- |
+| 1 | [第1回 材料を選ぶための見方](学生用/第01回/README.md) | [PDF](学生用/第01回/01_授業スライド.pdf)・[PowerPoint](学生用/第01回/01_授業スライド.pptx)・[ハンドアウト](学生用/第01回/01_ハンドアウト.pdf) | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson01-video.mp4) | 2026-11-05 15:14 |
+| 2 | [第2回 単位・力・応力・ひずみ](学生用/第02回/README.md) | [PDF](学生用/第02回/02_授業スライド.pdf)・[PowerPoint](学生用/第02回/02_授業スライド.pptx)・[ハンドアウト](学生用/第02回/02_ハンドアウト.pdf) | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson02-video.mp4) | 2026-11-05 15:14 |
+| 3 | [第3回 力とモーメントのつり合い](学生用/第03回/README.md) | [PDF](学生用/第03回/03_授業スライド.pdf)・[PowerPoint](学生用/第03回/03_授業スライド.pptx)・[ハンドアウト](学生用/第03回/03_ハンドアウト.pdf) | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson03-video.mp4) | 2026-11-05 15:14 |
+| 4 | [第4回 断面の形と応力・たわみ](学生用/第04回/README.md) | [PDF](学生用/第04回/04_授業スライド.pdf)・[PowerPoint](学生用/第04回/04_授業スライド.pptx)・[ハンドアウト](学生用/第04回/04_ハンドアウト.pdf) | [動画 89:40](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson04-figures/lesson04-video.mp4) | 2026-11-05 15:14 |
+| 5 | [第5回 金属の構造と性質](学生用/第05回/README.md) | [PDF](学生用/第05回/05_授業スライド.pdf)・[PowerPoint](学生用/第05回/05_授業スライド.pptx)・[ハンドアウト](学生用/第05回/05_ハンドアウト.pdf) | [動画 82:52](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson05-figures/lesson05-video.mp4) | 2026-11-05 15:14 |
+| 6 | [第6回 金属の加工・熱処理・使用環境](学生用/第06回/README.md) | [PDF](学生用/第06回/06_授業スライド.pdf)・[PowerPoint](学生用/第06回/06_授業スライド.pptx)・[ハンドアウト](学生用/第06回/06_ハンドアウト.pdf) | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson06-video.mp4) | 2026-11-05 15:14 |
+| 7 | [第7回 高分子の構造とプラスチックの性質](学生用/第07回/README.md) | [PDF](学生用/第07回/07_授業スライド.pdf)・[PowerPoint](学生用/第07回/07_授業スライド.pptx)・[ハンドアウト](学生用/第07回/07_ハンドアウト.pdf) | [動画 85:21](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson07-listening/lesson07-video.mp4) | 2026-11-05 15:14 |
+| 8 | [第8回 プラスチックの加工・耐久性・資源循環](学生用/第08回/README.md) | [PDF](学生用/第08回/08_授業スライド.pdf)・[PowerPoint](学生用/第08回/08_授業スライド.pptx)・[ハンドアウト](学生用/第08回/08_ハンドアウト.pdf) | [動画 85:55](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson08-listening/lesson08-video.mp4) | 2026-11-05 15:14 |
+| 9 | [第9回 木材の構造・方向・水分](学生用/第09回/README.md) | [PDF](学生用/第09回/09_授業スライド.pdf)・[PowerPoint](学生用/第09回/09_授業スライド.pptx)・[ハンドアウト](学生用/第09回/09_ハンドアウト.pdf) | [動画 89:37](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson09-listening/lesson09-video.mp4) | 2026-11-05 15:14 |
+| 10 | [第10回 木材の強さ・密度・加工と接合](学生用/第10回/README.md) | [PDF](学生用/第10回/10_授業スライド.pdf)・[PowerPoint](学生用/第10回/10_授業スライド.pptx)・[ハンドアウト](学生用/第10回/10_ハンドアウト.pdf) | [動画 89:16](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson10-listening/lesson10-video.mp4) | 2026-11-05 15:14 |
+| 11 | [第11回 三材料の物性値と計算による比較](学生用/第11回/README.md) | [PDF](学生用/第11回/11_授業スライド.pdf)・[PowerPoint](学生用/第11回/11_授業スライド.pptx)・[ハンドアウト](学生用/第11回/11_ハンドアウト.pdf) | [動画 89:53](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson11-listening/lesson11-video.mp4) | 2026-11-05 15:14 |
+| 12 | [第12回 複数の観点から材料を選ぶ](学生用/第12回/README.md) | [PDF](学生用/第12回/12_授業スライド.pdf)・[PowerPoint](学生用/第12回/12_授業スライド.pptx)・[ハンドアウト](学生用/第12回/12_ハンドアウト.pdf) | [動画 89:47](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson12-listening/lesson12-video.mp4) | 2026-11-05 15:14 |
+| 13 | [第13回 比較・検査・改善を計画する](学生用/第13回/README.md) | [PDF](学生用/第13回/13_授業スライド.pdf)・[PowerPoint](学生用/第13回/13_授業スライド.pptx)・[ハンドアウト](学生用/第13回/13_ハンドアウト.pdf) | [動画 89:54](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson13-listening/lesson13-video.mp4) | 2026-11-05 15:14 |
+| 14 | [第14回 技術科・他領域へつなぐ教材設計](学生用/第14回/README.md) | [PDF](学生用/第14回/14_授業スライド.pdf)・[PowerPoint](学生用/第14回/14_授業スライド.pptx)・[ハンドアウト](学生用/第14回/14_ハンドアウト.pdf) | [動画 88:55](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson14-listening/lesson14-video.mp4) | 2026-11-05 15:14 |
+| 15 | [第15回 材料選択の再検討と学びの統合](学生用/第15回/README.md) | [PDF](学生用/第15回/15_授業スライド.pdf)・[PowerPoint](学生用/第15回/15_授業スライド.pptx)・[ハンドアウト](学生用/第15回/15_ハンドアウト.pdf) | [動画 89:55](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson15-listening/lesson15-video.mp4) | 2026-11-05 15:14 |
 
-## 教材の公開状況
+[全15回のハンドアウト一括版（PDF・196頁）](学生用/工業材料概論_全15回ハンドアウト.pdf)
 
-| 回 | 内容・教材 | 状況 | 動画 | 改訂日時（日本時間） |
-|---|---|---|---|---|
-| 1 | [第1回 材料を選ぶための見方](学生用/第01回/README.md) | 学修時間・進め方の案内更新 | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson01-video.mp4) | 2026-11-05 15:14 |
-| 2 | [第2回 単位・力・応力・ひずみ](学生用/第02回/README.md) | 学修時間・進め方の案内更新 | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson02-video.mp4) | 2026-11-05 15:14 |
-| 3 | [第3回 力とモーメントのつり合い](学生用/第03回/README.md) | 学修時間・進め方の案内更新 | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson03-video.mp4) | 2026-11-05 15:14 |
-| 4 | [第4回 断面の形と応力・たわみ](学生用/第04回/README.md) | 学修時間・進め方の案内更新 | [動画 89:40](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson04-figures/lesson04-video.mp4) | 2026-11-05 15:14 |
-| 5 | [第5回 金属の構造と性質](学生用/第05回/README.md) | 学修時間・進め方の案内更新 | [動画 82:52](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson05-figures/lesson05-video.mp4) | 2026-11-05 15:14 |
-| 6 | [第6回 金属の加工・熱処理・使用環境](学生用/第06回/README.md) | 学修時間・進め方の案内更新 | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson06-video.mp4) | 2026-11-05 15:14 |
-| 7 | [第7回 高分子の構造とプラスチックの性質](学生用/第07回/README.md) | 学修時間・進め方の案内更新 | [動画 85:21](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson07-listening/lesson07-video.mp4) | 2026-11-05 15:14 |
-| 8 | [第8回 プラスチックの加工・耐久性・資源循環](学生用/第08回/README.md) | 学修時間・進め方の案内更新 | [動画 85:55](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson08-listening/lesson08-video.mp4) | 2026-11-05 15:14 |
-| 9 | [第9回 木材の構造・方向・水分](学生用/第09回/README.md) | 学修時間・進め方の案内更新 | [動画 89:37](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson09-listening/lesson09-video.mp4) | 2026-11-05 15:14 |
-| 10 | [第10回 木材の強さ・密度・加工と接合](学生用/第10回/README.md) | 学修時間・進め方の案内更新 | [動画 89:16](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson10-listening/lesson10-video.mp4) | 2026-11-05 15:14 |
-| 11 | [第11回 三材料の物性値と計算による比較](学生用/第11回/README.md) | 学修時間・進め方の案内更新 | [動画 89:53](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson11-listening/lesson11-video.mp4) | 2026-11-05 15:14 |
-| 12 | [第12回 複数の観点から材料を選ぶ](学生用/第12回/README.md) | 学修時間・進め方の案内更新 | [動画 89:47](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson12-listening/lesson12-video.mp4) | 2026-11-05 15:14 |
-| 13 | [第13回 比較・検査・改善を計画する](学生用/第13回/README.md) | 学修時間・進め方の案内更新 | [動画 89:54](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson13-listening/lesson13-video.mp4) | 2026-11-05 15:14 |
-| 14 | [第14回 技術科・他領域へつなぐ教材設計](学生用/第14回/README.md) | 学修時間・進め方の案内更新 | [動画 88:55](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson14-listening/lesson14-video.mp4) | 2026-11-05 15:14 |
-| 15 | [第15回 材料選択の再検討と学びの統合](学生用/第15回/README.md) | 学修時間・進め方の案内更新 | [動画 89:55](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson15-listening/lesson15-video.mp4) | 2026-11-05 15:14 |
-| 発展A | [発展A セラミックス](学生用/発展教材/A_セラミックス/README.md) | スライド・ハンドアウト・動画公開 | [動画 75:43](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-extension-abc/extensionA-video.mp4) | 2026-11-02 13:41 |
-| 発展B | [発展B 先端素材・新素材](学生用/発展教材/B_先端素材・新素材/README.md) | スライド・ハンドアウト・動画公開 | [動画 65:06](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-extension-abc/extensionB-video.mp4) | 2026-11-02 13:41 |
-| 発展C | [発展C 工業材料の歴史](学生用/発展教材/C_工業材料の歴史/README.md) | スライド・ハンドアウト・動画公開 | [動画 79:38](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-extension-abc/extensionC-video.mp4) | 2026-11-02 13:41 |
+## 発展教材
 
-改訂日時は各回・発展教材の公開ファイルを最後に更新した日時です。動画時間、字幕や案内のみの更新も含みます。
+第1～15回の本編から、セラミックス、先端素材、材料の利用史へ学びを広げる資料です。
 
-発展A・B・Cは公開済みです。
-
-学校で扱う内容を支えるため、材料学の原理、計算の前提、モデルの適用範囲まで学びます。中学校技術、高等学校の工業・情報、教員採用試験の学習との関連も扱います。
-
-データサイエンス・AIの活用では、数値やグラフを読み取るだけでなく、単位、測定条件、データの出典、推論の限界を確かめます。
+| 教材 | 内容・教材 | 配布資料 | 動画 | 改訂日時（日本時間） |
+| --- | --- | --- | --- | --- |
+| 発展A | [発展A セラミックス](学生用/発展教材/A_セラミックス/README.md) | [PDF](学生用/発展教材/A_セラミックス/発展A_セラミックス.pdf)・[PowerPoint](学生用/発展教材/A_セラミックス/発展A_セラミックス.pptx)・[ハンドアウト](学生用/発展教材/A_セラミックス/発展A_ハンドアウト.pdf) | [動画 75:43](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-extension-abc/extensionA-video.mp4) | 2026-11-02 13:41 |
+| 発展B | [発展B 先端素材・新素材](学生用/発展教材/B_先端素材・新素材/README.md) | [PDF](学生用/発展教材/B_先端素材・新素材/発展B_先端素材・新素材.pdf)・[PowerPoint](学生用/発展教材/B_先端素材・新素材/発展B_先端素材・新素材.pptx)・[ハンドアウト](学生用/発展教材/B_先端素材・新素材/発展B_ハンドアウト.pdf) | [動画 65:06](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-extension-abc/extensionB-video.mp4) | 2026-11-02 13:41 |
+| 発展C | [発展C 工業材料の歴史](学生用/発展教材/C_工業材料の歴史/README.md) | [PDF](学生用/発展教材/C_工業材料の歴史/発展C_工業材料の歴史.pdf)・[PowerPoint](学生用/発展教材/C_工業材料の歴史/発展C_工業材料の歴史.pptx)・[ハンドアウト](学生用/発展教材/C_工業材料の歴史/発展C_ハンドアウト.pdf) | [動画 79:38](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-extension-abc/extensionC-video.mp4) | 2026-11-02 13:41 |
 
 ## 教材の使い方
 
-各回の教材は、スライド（PDF・PowerPoint）と解説動画を中心に整備しています。第1～15回にハンドアウトがあります。スライドの問いに沿って、ハンドアウトまたはノートへ記録してください。各回の案内から必要な資料を開いてください。
+1. 各回の案内を開き、スライドとハンドアウトを用意します。
+2. 動画を見ながら、問いへの答えや計算の途中式をハンドアウトかノートに記録します。式を読む際は、[記号の名称と読み方](学生用/共通補助資料/記号の名称と読み方.pdf)を参照できます。
+3. 視聴後、[指導要領との接続と確認クイズ](学生用/共通補助資料/指導要領との接続/README.md)に取り組み、解答と理由を確かめます。
 
-[全15回のハンドアウト一括版（PDF・196頁／11月4日更新）](学生用/工業材料概論_全15回ハンドアウト.pdf)
+第1～15回は、動画と確認クイズ約10分を合わせて約93～100分が目安です。90分を目安に学ぶ場合は、先に動画と動画内の演習に取り組み、クイズを授業外の復習に回せます。動画を一時停止する時間やレポートの時間は別に見込み、授業で指定された進め方があればその指示に従ってください。
 
-動画の再生時間には、考える時間や休憩を含む場合があります。必要に応じて一時停止し、図、途中式、比較条件、判断の理由を記録してください。
+[学生用教材一覧と補助資料の案内](学生用/README.md)
 
-教材内の自己確認問題と、正式な提出課題は区別してください。正式な設問・締切・提出方法・配点は、授業の指示に従ってください。
+## 提出課題
+
+[レポートの課題文と個別ルーブリック](学生用/評価課題/README.md)に、4回構成の共有案を掲載しています。正式な設問・提出先・締切・配点は、担当教員の案内を確認してください。各回の確認クイズは自己確認用です。
 
 ## 関連する授業
 
-- [木材及び木質材料学](https://github.com/zooc-14calbp/wood-science-course)：木材の構造・水分・物性・加工などの理解を深める教材。
-- 生物育成：栽培容器・支柱・架台などの材料を、使用環境や管理の条件から考える際に関連付けます。
+- [木材及び木質材料学](https://github.com/zooc-14calbp/wood-science-course)で、木材の構造・水分・物性・加工を深めます。
+- 生物育成では、栽培容器・支柱・架台に使う材料を、使用環境や管理の条件から考えます。
+- [工業科教育論Ⅰ](https://github.com/zooc-14calbp/industrial-education-i#readme)・[工業科教育論Ⅱ](https://github.com/zooc-14calbp/industrial-education-ii#readme)では、専門内容を授業や学習活動へつなぐ視点を学べます。
+
+## 教材の公開状況
+
+第1～15回と発展A～Cを公開しています。各教材の改訂日時は、[各回の教材](#各回の教材)と[発展教材](#発展教材)の一覧に日本時間で表示しています。
+
+- 2026年11月6日　トップページを整理し、一覧から各回の配布資料を開けるようにしました。
+- 2026年11月5日　第1～15回の学修時間と確認クイズの進め方を案内に反映しました。
 
 ## 利用について
 
 公開教材の出典や利用条件は、各資料の表示に従ってください。教材に含まれる外部資料の権利は、それぞれの権利者に帰属します。このリポジトリには、教材全体を一律に再配布・改変できるライセンスは設定していません。
-
-[レポート課題と評価ルーブリック](学生用/評価課題/README.md) ／ [記号の名称と読み方](学生用/共通補助資料/記号の名称と読み方.pdf)
