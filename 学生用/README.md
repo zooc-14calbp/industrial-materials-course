@@ -4,7 +4,7 @@
 
 各回の案内から、スライド（PDF・PowerPoint）を開いてください。第1～15回はハンドアウトも利用できます。スライドと動画を使い、問いへの回答や比較表をハンドアウトまたはノートに記録します。動画と補助音声は、案内にあるダウンロード先から取得できます。
 
-[全15回のハンドアウト一括版（PDF・196頁／11月4日更新）](工業材料概論_全15回ハンドアウト.pdf)
+[全15回のハンドアウト一括版（PDF・196頁／11月6日更新）](工業材料概論_全15回ハンドアウト.pdf)
 
 第1～15回の学修時間の目安は、動画と確認クイズを合わせて約93～100分です。一時停止やレポートに使う時間は別に見込んでください。90分を目安に学ぶ場合は、先に動画と動画内の演習に取り組み、確認クイズは授業外の復習に回せます。授業で進め方の指定がある場合は、その指示に従ってください。
 
@@ -12,7 +12,7 @@
 
 | 回 | 内容・教材 | 状況 | 動画 |
 |---|---|---|---|
-| 1 | [第1回 材料を選ぶための見方](第01回/README.md) | 指導要領・確認クイズあり | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson01-video.mp4) |
+| 1 | [第1回 材料を選ぶための見方](第01回/README.md) | 指導要領・確認クイズあり | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-06-chapter01/lesson01-video.mp4) |
 | 2 | [第2回 単位・力・応力・ひずみ](第02回/README.md) | 指導要領・確認クイズあり | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson02-video.mp4) |
 | 3 | [第3回 力とモーメントのつり合い](第03回/README.md) | 指導要領・確認クイズあり | [動画 89:58](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-90min/lesson03-video.mp4) |
 | 4 | [第4回 断面の形と応力・たわみ](第04回/README.md) | 指導要領・確認クイズあり | [動画 89:40](https://github.com/zooc-14calbp/industrial-materials-course/releases/download/2026-11-02-lesson04-figures/lesson04-video.mp4) |
